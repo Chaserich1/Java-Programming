@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c2807bc-672a-41c4-a6ff-d480a25f1337" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1faf0VPi7tfj2qyiZoZ6yhZorPy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="acadamy.learnprogramming.Main" />
+      <module name="LinkedListChallenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c2807bc-672a-41c4-a6ff-d480a25f1337" name="Default Changelist" comment="" />
+      <created>1596460900877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596460900877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1155" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1596545392100">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1596545392100" />
+    <state x="-1206" y="29" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596545007321">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1206" y="29" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1596545007321" />
+    <state x="-1578" y="148" key="new project wizard" timestamp="1596545017740">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1578" y="148" key="new project wizard/0.0.1536.824/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1596545017740" />
+  </component>
+</project>
